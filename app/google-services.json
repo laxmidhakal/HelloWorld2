@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354163060193",
+    "firebase_url": "https://super-phone-auth-6e75e.firebaseio.com",
+    "project_id": "super-phone-auth-6e75e",
+    "storage_bucket": "super-phone-auth-6e75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354163060193:android:31794ed0d35af7b4",
+        "android_client_info": {
+          "package_name": "com.example.laxmidhakal.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354163060193-9je8jfre30jh055rgscn1n3ddk569i2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laxmidhakal.helloworld",
+            "certificate_hash": "67fba22e277c9c25e705e138f4118c20d1ca9dd3"
+          }
+        },
+        {
+          "client_id": "354163060193-nu67scd245u24qap098p7l04a86p6bis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQLQptku-REibpZGF520BRSRsd2ExhGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354163060193-nu67scd245u24qap098p7l04a86p6bis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
